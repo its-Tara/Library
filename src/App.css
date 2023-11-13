@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  color: black;
+  font-family: "IRANSansWeb";
+}
+h1{
+  background-color: rgb(217, 161, 93);
+}
+
+
+
+:link{
+  color: black!important;
+  text-decoration: none;
+  font-weight: bolder;
+  
+}
+a{
+  color: black;
+}
+a:hover{
+  color: rgb(112, 45, 45);
+}
+
+input{
+  border: 3px solid black;
+  border-radius: 1rem;
+  padding: .5rem;
+  background-color: antiquewhite;
+  cursor: pointer;
+}
+
+input:hover{
+  background-color: rgb(240, 210, 176);
+}
+
+button{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: 1px solid black;
+  border-radius: 1rem; 
+  padding: .5rem;
+  background-color: rgb(207, 167, 138);
+  cursor: pointer;
+  width: 10rem;
+}
+
+button:hover{
+  background-color: crimson;
+}
+
